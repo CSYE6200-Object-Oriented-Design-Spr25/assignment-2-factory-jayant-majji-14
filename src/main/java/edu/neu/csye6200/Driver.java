@@ -1,5 +1,7 @@
 package edu.neu.csye6200;
 
+import java.util.List;
+
 /**
  * 
  * @author Ruchika Sharm
@@ -8,11 +10,10 @@ package edu.neu.csye6200;
 
 public class Driver {
 	public static void main(String[] args) {
-		System.out.println("============Main Execution Start===================\n\n");
-
-         //Add your code in between these two print statements
 		
-		System.out.println("\n\n============Main Execution End===================");
-	}
+		Store store = new Store();
+        store.loadItems();
+        store.demo();
 
+}
 }

@@ -1,0 +1,5 @@
+21,Car Wash,20.00,30
+22,House Cleaning,90.75,10
+23,Gym Membership,50.00,100
+24,Plumbing,75.50,30
+25,Skin Care,30.25,15
